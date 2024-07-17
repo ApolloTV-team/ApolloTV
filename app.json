@@ -33,6 +33,7 @@
       "typedRoutes": true
     },
     "name": "ApolloTV",
-    "slug": "ApolloTV"
+    "slug": "ApolloTV",
+    "scheme": "ApolloTV"
   }
 }
